@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Coffee Shop Setup.unity
+    guid: 357d40c9d2e87114186bd7aabd7674bf
   m_configObjects: {}

@@ -1,0 +1,4 @@
+repository "Barista Simulator Capstone UP@sehveetas@cloud"
+  path "/"
+    br "/main"
+    co "/main"
